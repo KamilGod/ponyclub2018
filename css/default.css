@@ -1,8 +1,8 @@
 body{
     font-family: "Arial";
-    background-color:skyblue;
-    color:salmon;
-   
+  font-size:25px;
+    background-color: skyblue;
+    color:yellow;
 }
 
 .clearfix{
@@ -19,7 +19,7 @@ body{
 }
 
 ul.ponys {
-	min-width: 300px ;
+	min-width: 300px;
 	list-style: none;
 	padding-top: 20px;
 }
